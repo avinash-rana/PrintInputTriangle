@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintInputTriangle",
+            "request": "launch",
+            "mainClass": "PrintInputTriangle",
+            "projectName": "PrintInputTriangle_db211d3c"
+        }
+    ]
+}
